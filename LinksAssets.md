@@ -16,6 +16,7 @@
 ## Imágenes
 -  https://pixabay.com
 -  https://www.freepik.es
+-  https://cloudinary.com Da tambien una URL de las imagenes
 
 ## Modelos 3D
 - https://www.turbosquid.com/es/
@@ -24,3 +25,6 @@
 ## Texturas
 - https://polyhaven.com/textures
 - https://www.poliigon.com
+
+## Tutoriales programacion
+-https://www.w3schools.com
