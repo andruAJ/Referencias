@@ -8,6 +8,7 @@
 ## Sonidos
 - https://pixabay.com
 - https://sound-effects.bbcrewind.co.uk
+- https://vfx.productioncrate.com
 
 ## Videos
 - https://pixabay.com
@@ -17,17 +18,23 @@
 -  https://pixabay.com
 -  https://www.freepik.es
 -  https://cloudinary.com Da tambien una URL de las imagenes
+-  https://vfx.productioncrate.com
 
 ## Modelos 3D
 - https://www.turbosquid.com/es/
 - https://free3d.com/es/
+- https://vfx.productioncrate.com
 
 ## Texturas
 - https://polyhaven.com/textures
 - https://www.poliigon.com
+- https://vfx.productioncrate.com
 
 ## Tutoriales programacion
 -https://www.w3schools.com
 
 ## Clips de películs/series
 -https://getyarn.io
+
+## Efectos de video
+-https://vfx.productioncrate.com
