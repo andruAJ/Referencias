@@ -38,3 +38,6 @@
 
 ## Efectos de video
 -https://vfx.productioncrate.com
+
+## Fuentes de texto
+-https://www.dafontfree.io
