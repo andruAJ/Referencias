@@ -41,6 +41,7 @@
 
 ## Fuentes de texto
 -https://www.dafontfree.io
+-https://www.fontsquirrel.com
 
 ## Colores gradiantes para UI
 -https://uigradients.com/#DeepSeaSpace
