@@ -43,6 +43,9 @@
 -https://www.dafontfree.io
 -https://www.fontsquirrel.com
 
+## Animaciones para css
+-https://animate.style/
+
 ## Colores gradiantes para UI
 -https://uigradients.com/#DeepSeaSpace
 
