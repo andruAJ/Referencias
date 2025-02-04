@@ -51,3 +51,14 @@
 
 ## Ejemplos Diseño páginas
 -https://dribbble.com
+
+## efectos/templates 
+-https://www.motionelements.com
+-https://mixkit.co
+-https://motionarray.com
+-https://www.velosofy.com/
+-https://motionbro.net/
+-https://aejuice.com/free-pack/
+-https://www.videezy.com/
+-https://www.freepik.com/free-psd/after-effects
+-https://www.motionelements.com/
