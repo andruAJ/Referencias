@@ -62,3 +62,7 @@
 -https://www.videezy.com/
 -https://www.freepik.com/free-psd/after-effects
 -https://www.motionelements.com/
+
+## Data Charts
+-https://datagifmaker.withgoogle.com/
+-https://www.datawrapper.de/
