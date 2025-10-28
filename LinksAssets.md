@@ -29,7 +29,7 @@
 - https://polyhaven.com/textures
 - https://www.poliigon.com
 - https://vfx.productioncrate.com
-- -https://www.texturecan.com/
+- https://www.texturecan.com/
 
 ## Tutoriales programacion
 -https://www.w3schools.com
